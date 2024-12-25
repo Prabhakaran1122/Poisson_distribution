@@ -43,7 +43,8 @@ REGISTER NO : 24007060
 
 
 # Output : 
-![Screenshot 2024-12-22 103639](https://github.com/user-attachments/assets/35a34762-f806-4bb6-b8b5-241f2a6e6ded)
+
+![Screenshot 2024-12-22 104026](https://github.com/user-attachments/assets/fd09d5be-e82f-453b-8ba0-d3fd951f2a49)
 
 
 
